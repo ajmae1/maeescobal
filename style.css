@@ -1,0 +1,62 @@
+body{
+    background-color: beige;
+
+}
+.box{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    border: 7px;
+    border-radius: 25px;
+    background-color:#DBA39A ;
+}
+.name{
+    font-family: 'Poppins', sans-serif;
+}
+button{
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: blanchedalmond;
+    color: brown;
+    border: none;
+}
+h5{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    background-color: #F0DBDB;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+}
+td{
+    width: 10%;
+}
+.ajes{
+    text-align: left;
+}
+h3{
+    background-color: #F0DBDB;
+    padding: 10px;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto; 
+}
+input{
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.int{
+    width: 10%;
+    cursor: pointer;
+}
+
+textarea{
+    border-radius: 10px;
+    width: 50%;
+}
